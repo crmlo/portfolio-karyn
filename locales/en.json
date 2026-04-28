@@ -181,6 +181,14 @@
         "p2": "Some professionals did not feel confident using it and also felt that it lacked many basic features for a chat tool.",
         "contributionP1": "My goal in this project was to solve old version Nilo Chat's usability problems.",
         "contributionP2": "To achieve this I did several interviews with users and usability tests that served as the basis for the flow designs and visual updates of the product.",
+        "whatTheySay": {
+          "label": "What they say",
+          "quotes": [
+            "Sometimes I need to know who's been waiting the longest so I can prioritize service",
+            "I need to know how much time is left to close the patient contact window",
+            "I would like to see inbox and opened conversations on the same screen"
+          ]
+        },
         "meta": {
           "roleLabel": "My Role",
           "roleValue": "Product Designer",

@@ -94,8 +94,20 @@ export function NiloChatPage({ locale, currentPath }: NiloChatPageProps) {
           </div>
         </section>
 
-        <section className="mt-16 px-6 md:px-10">
-          <PlaceholderImage name="nilo-chat-whattheysay" />
+        <section className="mt-16 grid gap-8 px-6 md:grid-cols-2 md:items-center md:gap-12 md:px-10">
+          <PlaceholderImage name="nilo-chat-nurse" />
+          <div>
+            <SectionLabel>{page.phase1.whatTheySay.label}</SectionLabel>
+            <ul className="mt-6 space-y-6 font-sans text-[15px] leading-[1.7] italic">
+              {page.phase1.whatTheySay.quotes.map((quote) => (
+                <li key={quote}>{`"${quote}"`}</li>
+              ))}
+            </ul>
+          </div>
+        </section>
+
+        <section className="mt-12 px-6 md:px-10">
+          <PlaceholderImage name="nilo-chat-ui-overview" />
         </section>
 
         <section className="mt-16">
