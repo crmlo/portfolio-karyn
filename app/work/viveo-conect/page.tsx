@@ -1,5 +1,5 @@
-import { PlaceholderWorkPage } from "@/components/work/placeholder-work-page";
+import { ViveoConectPage } from "@/components/work/viveo-conect-page";
 
 export default function ViveoConectWorkPage() {
-  return <PlaceholderWorkPage locale="en" currentPath="/work/viveo-conect" title="Viveo Conect" />;
+  return <ViveoConectPage locale="en" currentPath="/work/viveo-conect" />;
 }

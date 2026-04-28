@@ -208,6 +208,84 @@
         "text": "Tudo o que precisam saber para tornar a experiência de cuidado mais eficiente, em uma tela bonita e organizada."
       }
     },
+    "viveoConect": {
+      "hero": {
+        "label": "Viveo Conect",
+        "headline": "Um app mobile que ajuda o time de vendas a fechar os melhores negócios."
+      },
+      "challenge": {
+        "label": "Desafio",
+        "p1": "A empresa tinha um lead time de até cinco horas entre gerar uma cotação para o cliente, negociar preços e fechar um pedido de compra. Isso porque não havia um sistema online para verificar preços e disponibilidade dos produtos.",
+        "p2": "O objetivo era criar um software que permitisse ao time de vendas gerar cotações e fechar pedidos imediatamente, online.",
+        "p3": "Além disso, seria muito útil para o time poder monitorar seu desempenho nas campanhas de vendas.",
+        "contribution": "Liderar sessões de discovery com os usuários (time de vendas), entender dores, conduzir entrevistas e desenvolver a ferramenta adequada para o objetivo final do projeto: reduzir o lead time dos negócios."
+      },
+      "meta": {
+        "roleLabel": "Meu Papel",
+        "roleValue": "UX/UI",
+        "durationLabel": "Duração",
+        "durationValue": "11 meses",
+        "yearLabel": "Ano",
+        "yearValue": "2019",
+        "toolsLabel": "Ferramentas",
+        "toolsValue": "Figma e muitos Post-Its :)"
+      },
+      "cocreation": {
+        "title": "Co-criação",
+        "subtitle": "Desenhando Com o Usuário, Para o Usuário",
+        "empathyLabel": "Construindo Empatia",
+        "p1": "Criar personas me ajudou a sair de mim mesma e reconhecer as diferentes necessidades e expectativas dos nossos usuários.",
+        "p2": "Ao pensar nas necessidades de uma persona fictícia, consegui inferir melhor o que uma pessoa real poderia precisar."
+      },
+      "userJourney": {
+        "label": "Jornada do Usuário"
+      },
+      "mvpFeatures": {
+        "label": "Funcionalidades do MVP",
+        "items": [
+          "Visibilidade de metas e realizações",
+          "Campanhas vigentes",
+          "Simulação de cotação com preços",
+          "Acompanhamento de cotação",
+          "Visão financeira do cliente"
+        ]
+      },
+      "imagination": {
+        "label": "Exercite a imaginação",
+        "p1": "Conduzi sessões dinâmicas onde os participantes puderam soltar a imaginação e desenhar em papel tudo o que achavam que seria ótimo ter em uma ferramenta de vendas."
+      },
+      "result": {
+        "label": "Resultado",
+        "subtitle": "App Mobile [mobilidade]",
+        "items": [
+          "Compila dados",
+          "Direciona análises",
+          "Informa políticas e estratégias",
+          "Melhora a comunicação entre gestores e vendas",
+          "Automatiza processos",
+          "Otimiza tempo",
+          "Prepara o vendedor para negociar"
+        ]
+      },
+      "wireframes": {
+        "label": "Wireframes"
+      },
+      "styleGuide": {
+        "label": "Guia de Estilo"
+      },
+      "features": {
+        "block1LeftCaption": "Uma home onde os usuários podem acompanhar seu desempenho nas campanhas",
+        "block1RightCaption": "Visibilidade de metas e o que foi realizado",
+        "block2LeftCaption": "Comunicação amigável",
+        "block2RightCaption": "Tudo na palma da mão",
+        "block3LeftCaption": "Simulação online com informações atualizadas em tempo real",
+        "block3RightCaption": "Tudo na palma da mão"
+      },
+      "managerView": {
+        "title": "Visão do Gestor",
+        "p1": "Como parte do projeto, também foi criado um painel de controle para os gestores de equipe, onde podem criar campanhas, definir metas e monitorar o desempenho de cada time."
+      }
+    },
     "niloCompass": {
       "hero": {
         "label": "Compass - Nilo",

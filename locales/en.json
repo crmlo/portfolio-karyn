@@ -208,6 +208,84 @@
         "text": "Everything they need to know to make the care experience more efficient, in a beautiful and organized screen."
       }
     },
+    "viveoConect": {
+      "hero": {
+        "label": "Conect app - Viveo",
+        "headline": "A mobile app that helps sales teams close the best deals."
+      },
+      "challenge": {
+        "label": "Challenge",
+        "p1": "The company had a lead time of up to five hours between generating a quote for the customer, negotiating prices and closing a purchase order. That's because there was no online system to check prices and availability of products.",
+        "p2": "The goal was to create software that would enable the sales team to generate quotes and close orders immediately, online.",
+        "p3": "Besides this, it would be very useful for the team to be able to monitor their performance on sales campaigns.",
+        "contribution": "To lead discovery sessions with users (sales team), understand pain points, conduct interviews, and develop the appropriate tool for the final goal of the project: reduce lead time for deals."
+      },
+      "meta": {
+        "roleLabel": "My Role",
+        "roleValue": "UX/UI",
+        "durationLabel": "Duration",
+        "durationValue": "11 months",
+        "yearLabel": "Year",
+        "yearValue": "2019",
+        "toolsLabel": "Tools",
+        "toolsValue": "Figma and a lot of Post-Its :)"
+      },
+      "cocreation": {
+        "title": "Co-creation",
+        "subtitle": "Designing With the User, For the User",
+        "empathyLabel": "Building Empathy",
+        "p1": "Creating personas could help me step out of myself and recognize different needs and expectations of our users.",
+        "p2": "By thinking about the needs of a fictional persona, I could be better able to infer what a real person might need."
+      },
+      "userJourney": {
+        "label": "User Journey"
+      },
+      "mvpFeatures": {
+        "label": "MVP Features",
+        "items": [
+          "Visibility of goals and accomplished",
+          "Current campaigns",
+          "Quotation simulation with prices",
+          "Quotation follow-up",
+          "Customer's financial view"
+        ]
+      },
+      "imagination": {
+        "label": "Exercise the imagination",
+        "p1": "I led dynamic sessions where participants could unleash their imagination and draw on paper everything they thought would be great to have in a sales tool."
+      },
+      "result": {
+        "label": "Result",
+        "subtitle": "Mobile App [mobility]",
+        "items": [
+          "Compile data",
+          "Directs analytics",
+          "Informs policies and strategies",
+          "Improves communication between managers and sales",
+          "Automates processes",
+          "Optimizes time",
+          "Prepares the seller to negotiate"
+        ]
+      },
+      "wireframes": {
+        "label": "Wireframes"
+      },
+      "styleGuide": {
+        "label": "Style guide"
+      },
+      "features": {
+        "block1LeftCaption": "A home page where users can keep track of their performance on campaigns",
+        "block1RightCaption": "Visibility of goals and what was accomplished",
+        "block2LeftCaption": "Friendly communication",
+        "block2RightCaption": "Everything at the palm of the hand",
+        "block3LeftCaption": "Online simulation with real-time updated information",
+        "block3RightCaption": "Everything at the palm of the hand"
+      },
+      "managerView": {
+        "title": "Manager view",
+        "p1": "As part of the project, a control panel was also created for team managers where they can create campaigns, set goals and monitor the performance of each team."
+      }
+    },
     "niloCompass": {
       "hero": {
         "label": "Compass - Nilo",
