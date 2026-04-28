@@ -124,6 +124,87 @@
         "text": "Due to confidentiality agreements, this project cannot be shared, but I can walk you through it in a live presentation."
       }
     },
+    "niloChat": {
+      "hero": {
+        "label": "Nilo Chat",
+        "headline": "As part of a strategic shift, our company aimed to scale personalized patient support while reducing costs related to human triage.",
+        "company": "nilo"
+      },
+      "phase2": {
+        "label": "2025 - Agentic Mode",
+        "overviewLabel": "Overview",
+        "p1": "The existing chat interface was not designed to support agent interactions, handoffs, or guardrails.",
+        "p2": "We needed to redesign the entire experience, making it intuitive for patients and easy to maintain for the product team - without compromising clarity, empathy, or efficiency.",
+        "contributionText": "As the product designer, I led the redesign, collaborating closely with engineering and our conversational AI specialist. I worked on:",
+        "contributionItems": [
+          "Mapping agent capabilities and defining use cases for triage and scheduling.",
+          "Designing an adaptive UI that could transition smoothly between agent and human interactions.",
+          "Ensuring guardrails, fallbacks, and agent transparency (e.g., showing who is responding).",
+          "Supporting our new design system (MUI) to ensure consistency and scalability."
+        ],
+        "meta": {
+          "roleLabel": "My Role",
+          "roleValue": "Product Designer",
+          "durationLabel": "Duration",
+          "durationValue": "4 months",
+          "yearLabel": "Year",
+          "yearValue": "2025",
+          "toolsLabel": "Tools",
+          "toolsValue": "Figma, ChatGPT"
+        }
+      },
+      "impact": {
+        "label": "Impact",
+        "p1": "The new experience was piloted with Fleury Group, a major healthcare provider in Brazil. After 4 months of usage, the AI agent reduced human triage and scheduling requests by 96%, freeing up resources and enabling 24/7 patient support.",
+        "p2": "This redesign became the foundation for future AI initiatives, aligning product design with the company's long-term automation strategy.",
+        "mediaLabel": "Media feature:",
+        "mediaText": "How Nilo is Connecting 3.5 Million Patients Using AI"
+      },
+      "interfaceOverview": {
+        "label": "Interface overview"
+      },
+      "exceptions": {
+        "label": "Exception Flows and Contingency Scenarios for the Virtual Agent",
+        "p1": "Mapping key support contexts to ensure appropriate agent behavior in cases like AI latency, system failures, human fallback, and safe conversation recovery."
+      },
+      "divider": {
+        "label": "Where it all started",
+        "text": "As AI capabilities emerged, we saw an opportunity to evolve the platform further. But to understand the full picture, here's where it began."
+      },
+      "phase1": {
+        "label": "2022 - Redesign",
+        "overviewLabel": "Overview",
+        "p1": "The Chat tool is currently the most used platform at Nilo. However, it had many usability and interactivity problems.",
+        "p2": "Some professionals did not feel confident using it and also felt that it lacked many basic features for a chat tool.",
+        "contributionP1": "My goal in this project was to solve old version Nilo Chat's usability problems.",
+        "contributionP2": "To achieve this I did several interviews with users and usability tests that served as the basis for the flow designs and visual updates of the product.",
+        "meta": {
+          "roleLabel": "My Role",
+          "roleValue": "Product Designer",
+          "durationLabel": "Duration",
+          "durationValue": "4 months",
+          "yearLabel": "Year",
+          "yearValue": "2022",
+          "toolsLabel": "Tools",
+          "toolsValue": "Figma"
+        }
+      },
+      "oldVersion": {
+        "label": "Old version"
+      },
+      "features": {
+        "block1LeftCaption": "Gets care team closer to the patients",
+        "block1RightCaption": "Take notes and share with colleagues",
+        "block2LeftCaption": "Never loose the open window to start a conversation with a patient",
+        "block2RightCaption": "Mark some patients as priority, so they can be attended first",
+        "block3LeftCaption": "Send and receive audio and video messages",
+        "block3RightCaption": "Get notified about who is waiting longer"
+      },
+      "closing": {
+        "title": "More productivity and organization",
+        "text": "Everything they need to know to make the care experience more efficient, in a beautiful and organized screen."
+      }
+    },
     "niloCompass": {
       "hero": {
         "label": "Compass - Nilo",

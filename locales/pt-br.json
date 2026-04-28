@@ -124,6 +124,87 @@
         "text": "Por acordo de confidencialidade, este projeto não pode ser compartilhado, mas posso apresentá-lo em uma conversa ao vivo."
       }
     },
+    "niloChat": {
+      "hero": {
+        "label": "Nilo Chat",
+        "headline": "Como parte de uma mudança estratégica, o objetivo era escalar o suporte personalizado ao paciente reduzindo custos com triagem humana.",
+        "company": "nilo"
+      },
+      "phase2": {
+        "label": "2025 - Modo Agêntico",
+        "overviewLabel": "Visão Geral",
+        "p1": "A interface de chat existente não foi desenhada para suportar interações com agentes, handoffs ou guardrails.",
+        "p2": "Precisamos redesenhar toda a experiência, tornando-a intuitiva para os pacientes e fácil de manter para o time de produto - sem comprometer clareza, empatia ou eficiência.",
+        "contributionText": "Como product designer, liderei o redesign em colaboração próxima com engenharia e nosso especialista em IA conversacional. Trabalhei em:",
+        "contributionItems": [
+          "Mapear capacidades dos agentes e definir casos de uso para triagem e agendamento.",
+          "Desenhar uma UI adaptativa que transita com fluidez entre interações com agente e humano.",
+          "Garantir guardrails, fallbacks e transparência do agente (ex.: mostrar quem está respondendo).",
+          "Apoiar nosso novo design system (MUI) para garantir consistência e escalabilidade."
+        ],
+        "meta": {
+          "roleLabel": "Meu Papel",
+          "roleValue": "Product Designer",
+          "durationLabel": "Duração",
+          "durationValue": "4 meses",
+          "yearLabel": "Ano",
+          "yearValue": "2025",
+          "toolsLabel": "Ferramentas",
+          "toolsValue": "Figma, ChatGPT"
+        }
+      },
+      "impact": {
+        "label": "Impacto",
+        "p1": "A nova experiência foi testada com o Grupo Fleury, uma das maiores operadoras de saúde do Brasil. Após 4 meses de uso, o agente de IA reduziu as solicitações de triagem e agendamento humano em 96%, liberando recursos e possibilitando suporte 24/7 aos pacientes.",
+        "p2": "Esse redesign se tornou a base para futuras iniciativas de IA, alinhando o design de produto com a estratégia de automação de longo prazo da empresa.",
+        "mediaLabel": "Destaque na mídia:",
+        "mediaText": "Como a Nilo Está Conectando 3,5 Milhões de Pacientes com IA"
+      },
+      "interfaceOverview": {
+        "label": "Visão geral da interface"
+      },
+      "exceptions": {
+        "label": "Fluxos de Exceção e Cenários de Contingência para o Agente Virtual",
+        "p1": "Mapeamento dos principais contextos de suporte para garantir o comportamento adequado do agente em casos como latência de IA, falhas de sistema, retorno ao humano e recuperação segura de conversas."
+      },
+      "divider": {
+        "label": "Onde tudo começou",
+        "text": "Com o avanço da IA, vimos uma oportunidade de levar a plataforma a um novo nível. Mas para entender o todo, aqui está onde tudo começou."
+      },
+      "phase1": {
+        "label": "2022 - Redesign",
+        "overviewLabel": "Visão Geral",
+        "p1": "O Chat é a plataforma mais utilizada na Nilo. No entanto, tinha muitos problemas de usabilidade e interatividade.",
+        "p2": "Alguns profissionais não se sentiam confiantes ao usá-lo e sentiam falta de funcionalidades básicas para uma ferramenta de chat.",
+        "contributionP1": "Meu objetivo neste projeto era resolver os problemas de usabilidade da versão antiga do Nilo Chat.",
+        "contributionP2": "Para isso, realizei diversas entrevistas com usuários e testes de usabilidade que serviram de base para os redesigns de fluxo e atualizações visuais do produto.",
+        "meta": {
+          "roleLabel": "Meu Papel",
+          "roleValue": "Product Designer",
+          "durationLabel": "Duração",
+          "durationValue": "4 meses",
+          "yearLabel": "Ano",
+          "yearValue": "2022",
+          "toolsLabel": "Ferramentas",
+          "toolsValue": "Figma"
+        }
+      },
+      "oldVersion": {
+        "label": "Versão Antiga"
+      },
+      "features": {
+        "block1LeftCaption": "Aproxima o time de saúde dos pacientes",
+        "block1RightCaption": "Faça anotações e compartilhe com colegas",
+        "block2LeftCaption": "Nunca perca a janela aberta para iniciar uma conversa com um paciente",
+        "block2RightCaption": "Marque pacientes como prioridade para serem atendidos primeiro",
+        "block3LeftCaption": "Envie e receba mensagens de áudio e vídeo",
+        "block3RightCaption": "Receba notificações sobre quem está esperando há mais tempo"
+      },
+      "closing": {
+        "title": "Mais produtividade e organização",
+        "text": "Tudo o que precisam saber para tornar a experiência de cuidado mais eficiente, em uma tela bonita e organizada."
+      }
+    },
     "niloCompass": {
       "hero": {
         "label": "Compass - Nilo",

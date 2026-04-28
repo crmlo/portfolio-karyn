@@ -1,5 +1,5 @@
-import { PlaceholderWorkPage } from "@/components/work/placeholder-work-page";
+import { NiloChatPage } from "@/components/work/nilo-chat-page";
 
 export default function NiloChatWorkPage() {
-  return <PlaceholderWorkPage locale="en" currentPath="/work/nilo-chat" title="Nilo Chat" />;
+  return <NiloChatPage locale="en" currentPath="/work/nilo-chat" />;
 }
