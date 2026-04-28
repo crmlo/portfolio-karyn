@@ -1,0 +1,268 @@
+{
+  "nav": {
+    "name": "Karyn Loreyne",
+    "work": "Trabalhos",
+    "contact": "Contato",
+    "switchTo": "EN"
+  },
+  "hero": {
+    "label": "OLÁ",
+    "headline": "Sou Product Designer, vivendo e me aventurando no interior de São Paulo, Brasil."
+  },
+  "about": {
+    "label": "Um pouco sobre mim",
+    "paragraph1": "Sou designer há 14 anos, com transição para o mundo digital há sete anos. Ao longo da minha carreira, trabalhei com grandes empresas de diferentes setores e atualmente sou Senior Product Designer, aberta a novas oportunidades.",
+    "paragraph2": "O que mais me move é a possibilidade de simplificar processos e criar experiências relevantes por meio de interfaces funcionais e visualmente marcantes. Gosto de conectar estratégia e execução, colaborando de perto com times multidisciplinares para transformar desafios complexos em soluções intuitivas — sempre com foco em impacto de negócio e nas necessidades dos usuários."
+  },
+  "companies": {
+    "label": "Empresas onde trabalhei",
+    "items": ["Viveo", "Coca-Cola", "Nilo", "iFood", "Raízen", "Comgás", "Shell"]
+  },
+  "knownFor": {
+    "label": "Sou reconhecida por",
+    "items": [
+      "Organização",
+      "Excelente documentação",
+      "Promoção de cultura e processos de design",
+      "Criação de service blueprints para comunicar fluxos complexos a públicos não técnicos",
+      "Trabalho próximo com engenharia para garantir soluções viáveis e de alta qualidade",
+      "Estruturação e escala de processos de design em times que estão começando em UX",
+      "Facilitação da colaboração entre Produto, Engenharia e outras áreas parceiras",
+      "Defesa de pesquisa com usuários e de decisões orientadas por dados"
+    ]
+  },
+  "skills": {
+    "items": [
+      {
+        "title": "Product Design",
+        "description": "Pesquisa, síntese, design de interação, prototipação e design systems para produtos digitais complexos."
+      },
+      {
+        "title": "Visual Design",
+        "description": "Interfaces de alta qualidade com forte hierarquia visual — atuando dentro e contribuindo para design systems maduros em escala."
+      },
+      {
+        "title": "Design Engineering",
+        "description": "Conectando design e desenvolvimento com fluxos assistidos por IA — entregando protótipos funcionais e evoluindo no stack completo de entrega de produto."
+      }
+    ]
+  },
+  "work": {
+    "label": "Trabalhos Selecionados",
+    "projects": [
+      {
+        "title": "Cardápio Digital",
+        "company": "iFood",
+        "image": "/work/cardapio-digital.jpg",
+        "tagline": "Um Progressive Web App para delivery de comida. Um dos produtos do ecossistema iFood.",
+        "href": "/pt-br/work/cardapio-digital"
+      },
+      {
+        "title": "Nilo Chat Redesign",
+        "company": "Nilo",
+        "image": "/work/nilo-chat-redesign.jpg",
+        "tagline": "Uma ferramenta que aproxima o time de saúde dos pacientes.",
+        "href": "/pt-br/work/nilo-chat-redesign"
+      },
+      {
+        "title": "Nilo Chat + Agentic Mode",
+        "company": "Nilo",
+        "image": "/work/nilo-chat-ai.jpg",
+        "tagline": "Como parte de uma mudança estratégica, o objetivo era escalar o suporte personalizado ao paciente reduzindo custos com triagem humana.",
+        "href": "/pt-br/work/nilo-chat-ai"
+      },
+      {
+        "title": "Nilo Compass",
+        "company": "Nilo",
+        "image": "/work/nilo-compass.jpg",
+        "tagline": "O Nilo Compass ajuda gestores de saúde a acompanhar métricas com dados claros e confiáveis.",
+        "href": "/pt-br/work/nilo-compass"
+      },
+      {
+        "title": "Nilo Design System",
+        "company": "Nilo",
+        "image": "/work/nilo-design-system.jpg",
+        "tagline": "Adotando MUI para melhorar escalabilidade, colaboração e preparo para IA.",
+        "href": "/pt-br/work/nilo-design-system"
+      },
+      {
+        "title": "Viveo Conect",
+        "company": "Viveo",
+        "image": "/work/viveo-conect.jpg",
+        "tagline": "Um app mobile que ajuda o time de vendas a fechar os melhores negócios.",
+        "href": "/pt-br/work/viveo-conect"
+      }
+    ]
+  },
+  "workPages": {
+    "common": {
+      "back": "Voltar",
+      "comingSoon": "Página do projeto em breve.",
+      "contributionLabel": "Minha Contribuição"
+    },
+    "cardapioDigital": {
+      "hero": {
+        "label": "Cardápio Digital - iFood",
+        "headline": "Um Progressive Web App para delivery de comida. Um dos produtos do ecossistema iFood.",
+        "company": "iFood"
+      },
+      "challenge": {
+        "title": "Desafio",
+        "leftParagraph1": "O Cardápio Digital é um produto criado para que restaurantes usem a tecnologia e infraestrutura logística do iFood para promover seu negócio e produtos de forma autônoma.",
+        "leftParagraph2": "Por ser um produto novo, enfrentamos o desafio de entender tanto o mercado de restaurantes quanto o comportamento dos clientes.",
+        "leftIntro": "Estive envolvida em todas as etapas do processo, incluindo:",
+        "leftItems": [
+          "Entendimento dos objetivos de negócio",
+          "Criação de landing pages para promover o produto",
+          "Execução de testes de conversão nas landing pages",
+          "Design do produto em si, incluindo fluxos de compra e pagamento",
+          "Design do portal de configuração, onde os donos de restaurante configuram seu cardápio digital",
+          "Pesquisa qualitativa e quantitativa (com mais de 13 mil respondentes) para entender os desafios de adoção."
+        ],
+        "rightParagraph1": "A cada trimestre, analisávamos os impactos de adoção do produto com base nos nossos esforços estratégicos e pesquisas. Tive um papel fundamental em entender a jornada do usuário, identificar necessidades e objeções, e propor melhorias para aumentar as métricas de adoção.",
+        "rightParagraph2": "Entrei no projeto antes do lançamento do produto e, em apenas quatro meses, o Cardápio Digital já processava 400 mil pedidos por mês. Quando saí do projeto, ele estava em trajetória de crescimento para atingir 3 milhões de pedidos até junho de 2022."
+      },
+      "meta": {
+        "label": "Meu Papel",
+        "roleLabel": "Meu Papel",
+        "roleValue": "Product Designer",
+        "durationLabel": "Duração",
+        "durationValue": "1 ano",
+        "yearLabel": "Ano",
+        "yearValue": "2021",
+        "toolsLabel": "Ferramentas",
+        "toolsValue": "Figma, Amplitude e Hotjar."
+      },
+      "presentation": {
+        "tag": "Apenas em Apresentação",
+        "text": "Por acordo de confidencialidade, este projeto não pode ser compartilhado, mas posso apresentá-lo em uma conversa ao vivo."
+      }
+    },
+    "niloChatRedesign": {
+      "hero": {
+        "label": "Nilo Chat",
+        "headline": "Uma ferramenta que aproxima o time de saúde dos pacientes."
+      },
+      "overview": {
+        "label": "Visão Geral",
+        "p1": "O Chat é a plataforma mais utilizada na Nilo. No entanto, tinha muitos problemas de usabilidade e interatividade.",
+        "p2": "Alguns profissionais não se sentiam confiantes ao usá-lo e sentiam falta de funcionalidades básicas para uma ferramenta de chat."
+      },
+      "contribution": {
+        "p1": "Meu objetivo neste projeto era resolver os problemas de usabilidade da versão antiga do Nilo Chat.",
+        "p2": "Para isso, realizei diversas entrevistas com usuários e testes de usabilidade que serviram de base para os redesigns de fluxo e atualizações visuais do produto."
+      },
+      "meta": {
+        "roleLabel": "Meu Papel",
+        "roleValue": "Product Designer",
+        "durationLabel": "Duração",
+        "durationValue": "4 meses",
+        "yearLabel": "Ano",
+        "yearValue": "2022",
+        "toolsLabel": "Ferramentas",
+        "toolsValue": "Figma"
+      },
+      "oldVersion": {
+        "label": "Versão Antiga"
+      },
+      "features": {
+        "block1LeftCaption": "Aproxima o time de saúde dos pacientes",
+        "block1RightCaption": "Faça anotações e compartilhe com colegas",
+        "block2LeftCaption": "Nunca perca a janela aberta para iniciar uma conversa com um paciente",
+        "block2RightCaption": "Marque pacientes como prioridade para serem atendidos primeiro",
+        "block3LeftCaption": "Envie e receba mensagens de áudio e vídeo",
+        "block3RightCaption": "Receba notificações sobre quem está esperando há mais tempo"
+      },
+      "closing": {
+        "title": "Mais produtividade e organização",
+        "text": "Tudo o que precisam saber para tornar a experiência de cuidado mais eficiente, em uma tela bonita e organizada."
+      }
+    },
+    "niloCompass": {
+      "hero": {
+        "label": "Compass - Nilo",
+        "headline": "O Nilo Compass ajuda gestores de saúde a acompanhar métricas com dados claros e confiáveis.",
+        "company": "nilo"
+      },
+      "challenge": {
+        "label": "Desafio",
+        "p1": "Gestores hospitalares e, principalmente, administradores de planos de saúde precisam acompanhar constantemente indicadores-chave para tomar decisões embasadas com autonomia.",
+        "p2": "No entanto, relatórios de gestão costumam ser ineficazes quando não contam com dados confiáveis ou não oferecem insights acionáveis para o monitoramento da operação. Além disso, percebemos que muitos gestores solicitavam dados sem clareza sobre o motivo dessa necessidade.",
+        "p3": "Com isso em mente, desenvolvemos o Nilo Analytics, uma plataforma em que todos os insights foram moldados diretamente pelas necessidades dos usuários, identificadas por meio de design thinking e sessões de cocriação.",
+        "p4": "Nosso principal objetivo não era apenas oferecer acesso aos dados, mas garantir que os gestores recebessem indicadores realmente relevantes - não apenas aquilo que achavam que precisavam, mas o que de fato gerava valor para o negócio e para a operação, permitindo decisões estratégicas com confiança.",
+        "p5": "Para isso, conduzi um estudo aprofundado dos principais indicadores, o que me permitiu definir e sugerir os insights mais relevantes de forma simples de consumir e estrategicamente útil."
+      },
+      "myRole": {
+        "label": "Minha Contribuição",
+        "p1": "Junto com o PM do projeto, entendi as necessidades de negócio e os objetivos desse novo produto. Depois dessa etapa, liderei sessões de cocriação com usuários em potencial para entender suas necessidades.",
+        "p2": "Em seguida, conduzi análise de concorrentes, estudos de UX e UI, protótipos, testes com usuários e, por fim, acompanhei a implementação."
+      },
+      "meta": {
+        "roleLabel": "Meu Papel",
+        "roleValue": "Product Designer",
+        "durationLabel": "Duração",
+        "durationValue": "10 meses",
+        "yearLabel": "Ano",
+        "yearValue": "2023",
+        "toolsLabel": "Ferramentas",
+        "toolsValue": "Figma, FigJam"
+      },
+      "process": {
+        "label": "Processo"
+      },
+      "cocreation": {
+        "title": "Co-criação",
+        "subtitle": "Entendendo dores e objetivos dos usuários",
+        "p1": "Ao longo de várias semanas, trabalhei com um grupo de gestores e com o time de Customer Success para obter uma visão holística dos processos operacionais e das necessidades gerenciais.",
+        "p2": "Após estruturar essa pesquisa em uma documentação clara, categorizamos as informações em páginas temáticas, garantindo clareza e usabilidade."
+      },
+      "validation": {
+        "title": "Validação",
+        "subtitle": "Conceitos e fórmulas",
+        "p1": "Outro desafio central foi padronizar todos os tipos de dados usados no projeto. Documentamos minuciosamente os conceitos e as fórmulas por trás de cada indicador.",
+        "p2": "Esse processo abrangente de validação se tornou a base para que o time de engenharia construísse a arquitetura de dados."
+      },
+      "uiDesign": {
+        "label": "Design de Interface",
+        "p1": "Depois que a arquitetura da informação foi validada, meu foco passou a ser transformar dados complexos em uma interface simples e funcional.",
+        "p2": "Trabalhei lado a lado com o time de engenharia, garantindo que cada experiência que eu desenhava fosse viável de implementar. Essa colaboração próxima nos permitiu validar restrições técnicas cedo e refinar soluções em conjunto.",
+        "p3": "Aproveitando o design system da empresa, criei novos componentes adaptados às necessidades específicas deste produto.",
+        "p4": "O objetivo era apresentar grandes volumes de dados de maneira clara, visualmente atraente e acionável, garantindo ao mesmo tempo que as escolhas de design estivessem alinhadas à viabilidade técnica."
+      },
+      "features": {
+        "block1Caption": "Sinais visuais para destacar informações quando algo não está indo como o esperado",
+        "block2LeftCaption": "É possível exportar as informações nos formatos mais populares",
+        "block2RightCaption": "A ferramenta de filtros oferece infinitas possibilidades de visualização de acordo com os objetivos do gestor",
+        "block3Caption": "Todos os grandes números agrupados por temas ajudam no monitoramento da operação"
+      },
+      "closing": {
+        "title": "Tudo o que você precisa saber de relance",
+        "text": "Em segundos, os gestores conseguem avaliar o status operacional e tomar decisões rápidas e embasadas."
+      }
+    }
+  },
+  "testimonials": {
+    "label": "O QUE DIZEM",
+    "items": [
+      {
+        "quote": "Karyn é a designer típica que genuinamente se importa com o usuário. Seu trabalho é guiado por necessidades reais e orientado ao usuário final, com constante preocupação em entregar a melhor experiência e impacto. Ela conduz testes, pesquisas, entrevistas, dinâmicas, levanta e traz muitos insumos para o time e os usa como base para suas decisões de produto.",
+        "author": "Design Manager at Nilo"
+      },
+      {
+        "quote": "O trabalho da Karyn é extremamente bem documentado. Você pode olhar o arquivo no Figma que ela cria e saber exatamente o que acontece em cada situação. Cada fluxo é muito bem descrito.",
+        "author": "Senior Software Engineer at Nilo"
+      },
+      {
+        "quote": "Ela demonstrou muito interesse no Compass, um projeto grande e complexo. Não teve medo de encarar de frente e organizar sessões complexas de cocriação.",
+        "author": "PM at Nilo"
+      }
+    ]
+  },
+  "contact": {
+    "label": "Entre em contato",
+    "line1": "Vamos criar algo incrível juntos!",
+    "email": "karyn.loreyne@gmail.com",
+    "phone": "+55 19 98765-3205",
+    "linkedin": "https://www.linkedin.com/in/karynloreyne/"
+  }
+}

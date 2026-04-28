@@ -1,0 +1,268 @@
+{
+  "nav": {
+    "name": "Karyn Loreyne",
+    "work": "Work",
+    "contact": "Contact me",
+    "switchTo": "PT"
+  },
+  "hero": {
+    "label": "HELLO",
+    "headline": "I'm a Product Designer living and adventuring in the countryside of São Paulo, Brazil."
+  },
+  "about": {
+    "label": "A little bit about me",
+    "paragraph1": "I've been a designer for 14 years, transitioning into the digital world seven years ago. Throughout my career, I've worked with major companies across diverse industries and I am currently a Senior Product Designer open to new opportunities.",
+    "paragraph2": "What drives me most is the ability to streamline processes and craft meaningful experiences through functional, visually compelling interfaces. I thrive on bridging strategy and execution, collaborating closely with cross-functional teams to turn complex challenges into intuitive solutions — always with a strong focus on business impact and user needs."
+  },
+  "companies": {
+    "label": "Companies I have worked for",
+    "items": ["Viveo", "Coca-Cola", "Nilo", "iFood", "Raízen", "Comgás", "Shell"]
+  },
+  "knownFor": {
+    "label": "I'm known for",
+    "items": [
+      "Organization",
+      "Excellent documentation",
+      "Promoting design culture and processes",
+      "Creating service blueprints to communicate complex flows to non-technical audiences",
+      "Working closely with engineers to ensure feasible and high-quality solutions",
+      "Structuring and scaling design processes in teams that are new to UX",
+      "Facilitating collaboration between Product, Engineering, and other stakeholders",
+      "Advocating for user research and data-driven decision-making"
+    ]
+  },
+  "skills": {
+    "items": [
+      {
+        "title": "Product Design",
+        "description": "Research, synthesis, interaction design, prototyping, and design systems across complex digital products."
+      },
+      {
+        "title": "Visual Design",
+        "description": "High-quality interfaces with strong visual hierarchy — working within and contributing to mature design systems at scale."
+      },
+      {
+        "title": "Design Engineering",
+        "description": "Bridging design and development through AI-assisted workflows — shipping functional prototypes and learning the full product delivery stack."
+      }
+    ]
+  },
+  "work": {
+    "label": "Selected Work",
+    "projects": [
+      {
+        "title": "Cardápio Digital",
+        "company": "iFood",
+        "image": "/work/cardapio-digital.jpg",
+        "tagline": "A Progressive Web App for food delivery. It's one of the products of the iFood ecosystem.",
+        "href": "/work/cardapio-digital"
+      },
+      {
+        "title": "Nilo Chat Redesign",
+        "company": "Nilo",
+        "image": "/work/nilo-chat-redesign.jpg",
+        "tagline": "A tool that gets the care team closer to the patients.",
+        "href": "/work/nilo-chat-redesign"
+      },
+      {
+        "title": "Nilo Chat + Agentic Mode",
+        "company": "Nilo",
+        "image": "/work/nilo-chat-ai.jpg",
+        "tagline": "As part of a strategic shift, our company aimed to scale personalized patient support while reducing costs related to human triage.",
+        "href": "/work/nilo-chat-ai"
+      },
+      {
+        "title": "Nilo Compass",
+        "company": "Nilo",
+        "image": "/work/nilo-compass.jpg",
+        "tagline": "Nilo Compass helps healthcare managers track key metrics with clear and reliable data.",
+        "href": "/work/nilo-compass"
+      },
+      {
+        "title": "Nilo Design System",
+        "company": "Nilo",
+        "image": "/work/nilo-design-system.jpg",
+        "tagline": "Adopting MUI to improve scalability, collaboration, and AI-readiness.",
+        "href": "/work/nilo-design-system"
+      },
+      {
+        "title": "Viveo Conect",
+        "company": "Viveo",
+        "image": "/work/viveo-conect.jpg",
+        "tagline": "A mobile app that helps sales teams close the best deals.",
+        "href": "/work/viveo-conect"
+      }
+    ]
+  },
+  "workPages": {
+    "common": {
+      "back": "Back",
+      "comingSoon": "Project page coming soon.",
+      "contributionLabel": "My Contribution"
+    },
+    "cardapioDigital": {
+      "hero": {
+        "label": "Digital menu - iFood",
+        "headline": "A Progressive Web App for food delivery. It's one of the products of the iFood ecosystem.",
+        "company": "iFood"
+      },
+      "challenge": {
+        "title": "Challenge",
+        "leftParagraph1": "The Digital Menu is a product designed to enable restaurants to leverage iFood's technology and logistics infrastructure to promote their business and products autonomously.",
+        "leftParagraph2": "Since it was a new product, we faced the challenge of understanding both the restaurant market and customer behavior.",
+        "leftIntro": "I was involved in all stages of the process, including:",
+        "leftItems": [
+          "Understanding business objectives",
+          "Creating landing pages to promote the product",
+          "Running conversion tests on landing pages",
+          "Designing the product itself, including purchase and payment flows",
+          "Designing the configuration portal, where restaurant owners set up their digital menu",
+          "Conducting qualitative and quantitative research (with over 13k respondents) to understand adoption challenges."
+        ],
+        "rightParagraph1": "Every quarter, we analyzed product adoption impacts based on our strategic efforts and research. I played a key role in understanding the user journey, identifying needs and objections, and proposing improvements to enhance adoption metrics.",
+        "rightParagraph2": "I joined the project before the product launch, and within just four months, the Digital Menu was already handling 400,000 orders per month. By the time I left the project, it was on a growth trajectory to reach 3 million orders by June 2022."
+      },
+      "meta": {
+        "label": "My Role",
+        "roleLabel": "My Role",
+        "roleValue": "Product Designer",
+        "durationLabel": "Duration",
+        "durationValue": "1 year",
+        "yearLabel": "Year",
+        "yearValue": "2021",
+        "toolsLabel": "Tools",
+        "toolsValue": "Figma, Amplitude and Hotjar."
+      },
+      "presentation": {
+        "tag": "Presentation Only",
+        "text": "Due to confidentiality agreements, this project cannot be shared, but I can walk you through it in a live presentation."
+      }
+    },
+    "niloChatRedesign": {
+      "hero": {
+        "label": "Chat - Nilo",
+        "headline": "A tool that gets the care team closer to the patients."
+      },
+      "overview": {
+        "label": "Overview",
+        "p1": "The Chat tool is currently the most used platform at Nilo. However, it had many usability and interactivity problems.",
+        "p2": "Some professionals did not feel confident using it and also felt that it lacked many basic features for a chat tool."
+      },
+      "contribution": {
+        "p1": "My goal in this project was to solve old version Nilo Chat's usability problems.",
+        "p2": "To achieve this I did several interviews with users and usability tests that served as the basis for the flow designs and visual updates of the product."
+      },
+      "meta": {
+        "roleLabel": "My Role",
+        "roleValue": "Product Designer",
+        "durationLabel": "Duration",
+        "durationValue": "4 months",
+        "yearLabel": "Year",
+        "yearValue": "2022",
+        "toolsLabel": "Tools",
+        "toolsValue": "Figma"
+      },
+      "oldVersion": {
+        "label": "Old version"
+      },
+      "features": {
+        "block1LeftCaption": "Gets care team closer to the patients",
+        "block1RightCaption": "Take notes and share with colleagues",
+        "block2LeftCaption": "Never loose the open window to start a conversation with a patient",
+        "block2RightCaption": "Mark some patients as priority, so they can be attended first",
+        "block3LeftCaption": "Send and receive audio and video messages",
+        "block3RightCaption": "Get notified about who is waiting longer"
+      },
+      "closing": {
+        "title": "More productivity and organization",
+        "text": "Everything they need to know to make the care experience more efficient, in a beautiful and organized screen."
+      }
+    },
+    "niloCompass": {
+      "hero": {
+        "label": "Compass - Nilo",
+        "headline": "Nilo Compass helps healthcare managers track key metrics with clear and reliable data.",
+        "company": "nilo"
+      },
+      "challenge": {
+        "label": "Challenge",
+        "p1": "Hospital managers and, especially, health plan administrators need to constantly track key metrics to make informed decisions with autonomy.",
+        "p2": "However, management reports are often ineffective when they lack reliable data or fail to provide actionable insights for operational monitoring. Additionally, we noticed that managers often requested data without a clear understanding of why they needed it.",
+        "p3": "With this in mind, we developed Nilo Analytics, a platform where all insights were shaped directly from user needs, identified through design thinking and co-creation sessions.",
+        "p4": "Our main goal was not only to provide access to data but to ensure that managers received truly relevant indicators - not just what they thought they needed, but what was actually valuable for their business and operations, empowering them to make strategic decisions with confidence.",
+        "p5": "To achieve this, I conducted an in-depth study of key metrics, allowing me to define and suggest the most meaningful insights in a way that was both simple to consume and strategically useful."
+      },
+      "myRole": {
+        "label": "My Contribution",
+        "p1": "Together with the PM of the project, I understood the business needs and goals for this new product. After this step I led sessions of co-creation with potential users, to understand their needs.",
+        "p2": "Later in this process, I did competitor analysis, UX and UI studies, prototypes, user tests and finally followed the implementation."
+      },
+      "meta": {
+        "roleLabel": "My Role",
+        "roleValue": "Product Designer",
+        "durationLabel": "Duration",
+        "durationValue": "10 months",
+        "yearLabel": "Year",
+        "yearValue": "2023",
+        "toolsLabel": "Tools",
+        "toolsValue": "Figma, FigJam"
+      },
+      "process": {
+        "label": "Process"
+      },
+      "cocreation": {
+        "title": "Co-creation",
+        "subtitle": "Understanding pain points and users goals",
+        "p1": "Over several weeks, I worked with a group of managers and our Customer Success team to gain a holistic understanding of operational processes and managerial needs.",
+        "p2": "After structuring this research into clear documentation, we categorized the information into thematic pages, ensuring clarity and usability."
+      },
+      "validation": {
+        "title": "Validation",
+        "subtitle": "Concepts and formulas",
+        "p1": "Another key challenge was standardizing all data types used in the project. We meticulously documented the concepts and formulas behind each indicator.",
+        "p2": "This comprehensive validation process became the foundation for the engineering team to build the data architecture."
+      },
+      "uiDesign": {
+        "label": "UI Design",
+        "p1": "Once the information architecture was validated, my focus shifted to transforming complex data into a simple and functional interface.",
+        "p2": "I worked side by side with the engineering team, ensuring that every experience I designed was feasible to implement. This close collaboration allowed us to validate technical constraints early and refine solutions together.",
+        "p3": "Leveraging the company's design system, I created new components tailored to this product's unique needs.",
+        "p4": "The goal was to present high volumes of data in a way that is clear, visually appealing, and actionable, while ensuring that our design choices aligned with technical feasibility."
+      },
+      "features": {
+        "block1Caption": "Visual signs to bring up information when something is not going as expected",
+        "block2LeftCaption": "It is possible to export the information in the most popular formats",
+        "block2RightCaption": "The filter tool gives infinite visualization possibilities according to the manager's goals",
+        "block3Caption": "All big numbers grouped by themes helps monitoring the operations"
+      },
+      "closing": {
+        "title": "Everything you need to know at a glance",
+        "text": "Within seconds, managers can assess the operational status and make quick, informed decisions."
+      }
+    }
+  },
+  "testimonials": {
+    "label": "What they say",
+    "items": [
+      {
+        "quote": "Karyn is the typical designer who genuinely cares about the user. Her work is guided by real needs and oriented to the final user, with latent concern in delivering the best real experience and impact. She conducts tests, surveys, interviews, dynamics, raises and brings a lot of inputs for the team and uses them as a basis for her product decisions.",
+        "author": "Design Manager at Nilo"
+      },
+      {
+        "quote": "Karyn's work is extremely well documented. You can look at the Figma file she creates and knowing exactly what happens in each situation. Each flows is very well described.",
+        "author": "Senior Software Engineer at Nilo"
+      },
+      {
+        "quote": "She showed a lot of interest in the Compass, a large and complex project. She was not afraid to face it head-on and organize complex co-creation sessions.",
+        "author": "PM at Nilo"
+      }
+    ]
+  },
+  "contact": {
+    "label": "Get in touch",
+    "line1": "Let's make something great together!",
+    "email": "karyn.loreyne@gmail.com",
+    "phone": "+55 19 98765-3205",
+    "linkedin": "https://www.linkedin.com/in/karynloreyne/"
+  }
+}
