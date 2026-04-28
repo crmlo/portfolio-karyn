@@ -1,7 +1,10 @@
 {
   "nav": {
     "name": "Karyn Loreyne",
-    "work": "Work",
+    "ifood": "iFood",
+    "niloChat": "Nilo Chat",
+    "niloCompass": "Nilo Compass",
+    "viveoConect": "Viveo Conect",
     "contact": "Contact me",
     "switchTo": "PT"
   },
@@ -127,7 +130,7 @@
     "niloChat": {
       "hero": {
         "label": "Nilo Chat",
-        "headline": "As part of a strategic shift, our company aimed to scale personalized patient support while reducing costs related to human triage.",
+        "headline": "The interface between patients and their care team - redesigned for the age of AI.",
         "company": "nilo"
       },
       "phase2": {
@@ -169,7 +172,7 @@
       },
       "divider": {
         "label": "Where it all started",
-        "text": "As AI capabilities emerged, we saw an opportunity to evolve the platform further. But to understand the full picture, here's where it began."
+        "text": "With usability solved, we had a solid foundation. When AI capabilities emerged, we saw an opportunity to take the platform further."
       },
       "phase1": {
         "label": "2022 - Redesign",

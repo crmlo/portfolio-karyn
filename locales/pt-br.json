@@ -1,7 +1,10 @@
 {
   "nav": {
     "name": "Karyn Loreyne",
-    "work": "Trabalhos",
+    "ifood": "iFood",
+    "niloChat": "Nilo Chat",
+    "niloCompass": "Nilo Compass",
+    "viveoConect": "Viveo Conect",
     "contact": "Contato",
     "switchTo": "EN"
   },
@@ -127,7 +130,7 @@
     "niloChat": {
       "hero": {
         "label": "Nilo Chat",
-        "headline": "Como parte de uma mudança estratégica, o objetivo era escalar o suporte personalizado ao paciente reduzindo custos com triagem humana.",
+        "headline": "A interface entre pacientes e seus cuidadores - redesenhada para a era da IA.",
         "company": "nilo"
       },
       "phase2": {
@@ -169,7 +172,7 @@
       },
       "divider": {
         "label": "Onde tudo começou",
-        "text": "Com o avanço da IA, vimos uma oportunidade de levar a plataforma a um novo nível. Mas para entender o todo, aqui está onde tudo começou."
+        "text": "Com a usabilidade resolvida, tínhamos uma base sólida. Com o avanço da IA, vimos a oportunidade de levar a plataforma a um novo nível."
       },
       "phase1": {
         "label": "2022 - Redesign",

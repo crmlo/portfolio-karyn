@@ -54,95 +54,6 @@ export function NiloChatPage({ locale, currentPath }: NiloChatPageProps) {
 
         <section className="mt-16">
           <div className="mx-auto w-full max-w-2xl px-6">
-            <PhaseLabel>{page.phase2.label}</PhaseLabel>
-            <div className="mt-6">
-              <SectionLabel>{page.phase2.overviewLabel}</SectionLabel>
-            </div>
-            <div className="mt-6 space-y-5 font-sans text-[15px] leading-[1.7]">
-              <p>{page.phase2.p1}</p>
-              <p>{page.phase2.p2}</p>
-            </div>
-
-            <div className="mt-12 grid gap-5 md:grid-cols-2">
-              <div>
-                <SectionLabel>{dict.workPages.common.contributionLabel}</SectionLabel>
-              </div>
-              <div className="space-y-5 font-sans text-[15px] leading-[1.7]">
-                <p>{page.phase2.contributionText}</p>
-                <ul className="space-y-2">
-                  {page.phase2.contributionItems.map((item) => (
-                    <li key={item}>{`· ${item}`}</li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-
-            <div className="mt-12 grid grid-cols-4 gap-4">
-              <div>
-                <SectionLabel>{page.phase2.meta.roleLabel}</SectionLabel>
-                <p className="mt-2 font-sans text-[14px] leading-[1.7]">{page.phase2.meta.roleValue}</p>
-              </div>
-              <div>
-                <SectionLabel>{page.phase2.meta.durationLabel}</SectionLabel>
-                <p className="mt-2 font-sans text-[14px] leading-[1.7]">{page.phase2.meta.durationValue}</p>
-              </div>
-              <div>
-                <SectionLabel>{page.phase2.meta.yearLabel}</SectionLabel>
-                <p className="mt-2 font-sans text-[14px] leading-[1.7]">{page.phase2.meta.yearValue}</p>
-              </div>
-              <div>
-                <SectionLabel>{page.phase2.meta.toolsLabel}</SectionLabel>
-                <p className="mt-2 font-sans text-[14px] leading-[1.7]">{page.phase2.meta.toolsValue}</p>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <section className="mt-16">
-          <div className="mx-auto w-full max-w-2xl px-6">
-            <SectionLabel>{page.impact.label}</SectionLabel>
-            <div className="mt-6 space-y-5 font-sans text-[15px] leading-[1.7]">
-              <p>{page.impact.p1}</p>
-              <p>{page.impact.p2}</p>
-            </div>
-            <div className="mt-8 rounded-md bg-[#D9E6FD] p-6 md:p-8">
-              <p className="font-sans text-sm font-semibold">{page.impact.mediaLabel}</p>
-              <p className="mt-2 font-sans text-[15px] leading-[1.7]">{page.impact.mediaText}</p>
-            </div>
-          </div>
-          <div className="mt-12 px-6 md:px-10">
-            <PlaceholderImage name="nilo-chat-media" />
-          </div>
-        </section>
-
-        <section className="mt-16">
-          <div className="mx-auto w-full max-w-2xl px-6">
-            <SectionLabel>{page.interfaceOverview.label}</SectionLabel>
-          </div>
-          <div className="mt-6 px-6 md:px-10">
-            <PlaceholderImage name="nilo-chat-interface" />
-          </div>
-        </section>
-
-        <section className="mt-16">
-          <div className="mx-auto w-full max-w-2xl px-6">
-            <SectionLabel>{page.exceptions.label}</SectionLabel>
-            <p className="mt-6 font-sans text-[15px] leading-[1.7]">{page.exceptions.p1}</p>
-          </div>
-          <div className="mt-12 px-6 md:px-10">
-            <PlaceholderImage name="nilo-chat-exceptions" />
-          </div>
-        </section>
-
-        <section className="mt-16 px-6 md:px-10">
-          <div className="rounded-md bg-zinc-50 px-6 py-10 text-center md:px-10 md:py-14">
-            <SectionLabel>{page.divider.label}</SectionLabel>
-            <p className="font-playfair mx-auto mt-4 max-w-3xl text-2xl leading-relaxed md:text-3xl">{page.divider.text}</p>
-          </div>
-        </section>
-
-        <section className="mt-16">
-          <div className="mx-auto w-full max-w-2xl px-6">
             <PhaseLabel>{page.phase1.label}</PhaseLabel>
             <div className="mt-6">
               <SectionLabel>{page.phase1.overviewLabel}</SectionLabel>
@@ -228,6 +139,95 @@ export function NiloChatPage({ locale, currentPath }: NiloChatPageProps) {
               <PlaceholderImage name="nilo-chat-waiting" aspectClassName="aspect-[4/3]" />
               <p className="font-sans text-[14px] leading-[1.7] text-zinc-700">{page.features.block3RightCaption}</p>
             </div>
+          </div>
+        </section>
+
+        <section className="mt-16 px-6 md:px-10">
+          <div className="rounded-md bg-zinc-50 px-6 py-10 text-center md:px-10 md:py-14">
+            <SectionLabel>{page.divider.label}</SectionLabel>
+            <p className="font-playfair mx-auto mt-4 max-w-3xl text-2xl leading-relaxed md:text-3xl">{page.divider.text}</p>
+          </div>
+        </section>
+
+        <section className="mt-16">
+          <div className="mx-auto w-full max-w-2xl px-6">
+            <PhaseLabel>{page.phase2.label}</PhaseLabel>
+            <div className="mt-6">
+              <SectionLabel>{page.phase2.overviewLabel}</SectionLabel>
+            </div>
+            <div className="mt-6 space-y-5 font-sans text-[15px] leading-[1.7]">
+              <p>{page.phase2.p1}</p>
+              <p>{page.phase2.p2}</p>
+            </div>
+
+            <div className="mt-12 grid gap-5 md:grid-cols-2">
+              <div>
+                <SectionLabel>{dict.workPages.common.contributionLabel}</SectionLabel>
+              </div>
+              <div className="space-y-5 font-sans text-[15px] leading-[1.7]">
+                <p>{page.phase2.contributionText}</p>
+                <ul className="space-y-2">
+                  {page.phase2.contributionItems.map((item) => (
+                    <li key={item}>{`· ${item}`}</li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+
+            <div className="mt-12 grid grid-cols-4 gap-4">
+              <div>
+                <SectionLabel>{page.phase2.meta.roleLabel}</SectionLabel>
+                <p className="mt-2 font-sans text-[14px] leading-[1.7]">{page.phase2.meta.roleValue}</p>
+              </div>
+              <div>
+                <SectionLabel>{page.phase2.meta.durationLabel}</SectionLabel>
+                <p className="mt-2 font-sans text-[14px] leading-[1.7]">{page.phase2.meta.durationValue}</p>
+              </div>
+              <div>
+                <SectionLabel>{page.phase2.meta.yearLabel}</SectionLabel>
+                <p className="mt-2 font-sans text-[14px] leading-[1.7]">{page.phase2.meta.yearValue}</p>
+              </div>
+              <div>
+                <SectionLabel>{page.phase2.meta.toolsLabel}</SectionLabel>
+                <p className="mt-2 font-sans text-[14px] leading-[1.7]">{page.phase2.meta.toolsValue}</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="mt-16">
+          <div className="mx-auto w-full max-w-2xl px-6">
+            <SectionLabel>{page.impact.label}</SectionLabel>
+            <div className="mt-6 space-y-5 font-sans text-[15px] leading-[1.7]">
+              <p>{page.impact.p1}</p>
+              <p>{page.impact.p2}</p>
+            </div>
+            <div className="mt-8 rounded-md bg-[#D9E6FD] p-6 md:p-8">
+              <p className="font-sans text-sm font-semibold">{page.impact.mediaLabel}</p>
+              <p className="mt-2 font-sans text-[15px] leading-[1.7]">{page.impact.mediaText}</p>
+            </div>
+          </div>
+          <div className="mt-12 px-6 md:px-10">
+            <PlaceholderImage name="nilo-chat-media" />
+          </div>
+        </section>
+
+        <section className="mt-16">
+          <div className="mx-auto w-full max-w-2xl px-6">
+            <SectionLabel>{page.interfaceOverview.label}</SectionLabel>
+          </div>
+          <div className="mt-6 px-6 md:px-10">
+            <PlaceholderImage name="nilo-chat-interface" />
+          </div>
+        </section>
+
+        <section className="mt-16">
+          <div className="mx-auto w-full max-w-2xl px-6">
+            <SectionLabel>{page.exceptions.label}</SectionLabel>
+            <p className="mt-6 font-sans text-[15px] leading-[1.7]">{page.exceptions.p1}</p>
+          </div>
+          <div className="mt-12 px-6 md:px-10">
+            <PlaceholderImage name="nilo-chat-exceptions" />
           </div>
         </section>
 
