@@ -1,5 +1,5 @@
-import { PlaceholderWorkPage } from "@/components/work/placeholder-work-page";
+import { redirect } from "next/navigation";
 
 export default function NiloDesignSystemWorkPage() {
-  return <PlaceholderWorkPage locale="en" currentPath="/work/nilo-design-system" title="Nilo Design System" />;
+  redirect("/work/nilo-chat");
 }

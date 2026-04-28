@@ -58,18 +58,11 @@
         "href": "/work/cardapio-digital"
       },
       {
-        "title": "Nilo Chat Redesign",
-        "company": "Nilo",
-        "image": "/work/nilo-chat-redesign.jpg",
-        "tagline": "A tool that gets the care team closer to the patients.",
-        "href": "/work/nilo-chat-redesign"
-      },
-      {
-        "title": "Nilo Chat + Agentic Mode",
+        "title": "Nilo Chat",
         "company": "Nilo",
         "image": "/work/nilo-chat-ai.jpg",
-        "tagline": "As part of a strategic shift, our company aimed to scale personalized patient support while reducing costs related to human triage.",
-        "href": "/work/nilo-chat-ai"
+        "tagline": "From a usability redesign to an AI-powered platform that reduced human triage by 96%.",
+        "href": "/work/nilo-chat"
       },
       {
         "title": "Nilo Compass",
@@ -77,13 +70,6 @@
         "image": "/work/nilo-compass.jpg",
         "tagline": "Nilo Compass helps healthcare managers track key metrics with clear and reliable data.",
         "href": "/work/nilo-compass"
-      },
-      {
-        "title": "Nilo Design System",
-        "company": "Nilo",
-        "image": "/work/nilo-design-system.jpg",
-        "tagline": "Adopting MUI to improve scalability, collaboration, and AI-readiness.",
-        "href": "/work/nilo-design-system"
       },
       {
         "title": "Viveo Conect",
@@ -136,46 +122,6 @@
       "presentation": {
         "tag": "Presentation Only",
         "text": "Due to confidentiality agreements, this project cannot be shared, but I can walk you through it in a live presentation."
-      }
-    },
-    "niloChatRedesign": {
-      "hero": {
-        "label": "Chat - Nilo",
-        "headline": "A tool that gets the care team closer to the patients."
-      },
-      "overview": {
-        "label": "Overview",
-        "p1": "The Chat tool is currently the most used platform at Nilo. However, it had many usability and interactivity problems.",
-        "p2": "Some professionals did not feel confident using it and also felt that it lacked many basic features for a chat tool."
-      },
-      "contribution": {
-        "p1": "My goal in this project was to solve old version Nilo Chat's usability problems.",
-        "p2": "To achieve this I did several interviews with users and usability tests that served as the basis for the flow designs and visual updates of the product."
-      },
-      "meta": {
-        "roleLabel": "My Role",
-        "roleValue": "Product Designer",
-        "durationLabel": "Duration",
-        "durationValue": "4 months",
-        "yearLabel": "Year",
-        "yearValue": "2022",
-        "toolsLabel": "Tools",
-        "toolsValue": "Figma"
-      },
-      "oldVersion": {
-        "label": "Old version"
-      },
-      "features": {
-        "block1LeftCaption": "Gets care team closer to the patients",
-        "block1RightCaption": "Take notes and share with colleagues",
-        "block2LeftCaption": "Never loose the open window to start a conversation with a patient",
-        "block2RightCaption": "Mark some patients as priority, so they can be attended first",
-        "block3LeftCaption": "Send and receive audio and video messages",
-        "block3RightCaption": "Get notified about who is waiting longer"
-      },
-      "closing": {
-        "title": "More productivity and organization",
-        "text": "Everything they need to know to make the care experience more efficient, in a beautiful and organized screen."
       }
     },
     "niloCompass": {

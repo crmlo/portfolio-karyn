@@ -1,5 +1,5 @@
-import { NiloChatRedesignPage } from "@/components/work/nilo-chat-redesign-page";
+import { redirect } from "next/navigation";
 
 export default function NiloChatRedesignWorkPagePtBr() {
-  return <NiloChatRedesignPage locale="pt-br" currentPath="/pt-br/work/nilo-chat-redesign" />;
+  redirect("/pt-br/work/nilo-chat");
 }
